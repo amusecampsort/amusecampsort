@@ -11,7 +11,7 @@ var bln_ResultMode = 1;
 // 0:テキスト　1:イラスト　2:テキスト＋イラスト
 var int_ResultImg = 2;
 // イラスト表示時、何位までをイラスト表示にするか。
-var int_ResultRank = 3;
+var int_ResultRank = 1;
 
 // ソート用のテーブルを
 // 0:残す　1:消す
@@ -19,7 +19,7 @@ var bln_ResultStyle = 0;
 
 // ソート進捗バーの表示
 // 0:表示　1:消す
-var bln_ProgessBar = 1;
+var bln_ProgessBar = 0;
 
 // Maximum number of result rows before being broken off into another table.
 var maxRows = 35;
