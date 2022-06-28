@@ -6,7 +6,7 @@
    font-family: 'Arial', sans-serif;
    text-align: center;
    vertical-align: middle;
-   width: 410px;
+   width: 1610px;
    margin-left: auto;
    margin-right: auto;
    border-collapse: separate;
@@ -14,8 +14,8 @@
 }
 
 img {
-	width: 140px;
-	height: 180px;
+	width: 480px;
+	height: 720px;
 }
 
 .tb_header {
@@ -34,8 +34,8 @@ img {
 }
 #fldRight   {
 	text-align: center;
-	width: 165px;
-	height: 180px;
+	width: 660px;
+	height: 720px;
 	padding:0px;
 	border: 1px solid #333333;
 	cursor:pointer;
@@ -43,8 +43,8 @@ img {
 }
 #fldMiddleT {
 	text-align: center;
-	width: 150px;
-	height: 90px;
+	width: 600px;
+	height: 360px;
 	padding:0px;
 	border: 1px solid #333333;
 	cursor:pointer;
@@ -52,8 +52,8 @@ img {
 }
 #fldMiddleB {
 	text-align: center;
-	width: 150px;
-	height: 90px;
+	width: 600px;
+	height: 360px;
 	padding:0px;
 	border: 1px solid #333333;
 	cursor:pointer;
